@@ -30,7 +30,10 @@ npm run dev
 npm run test
 ```
 
-[Watch the video to see how to see the planet details](./public/check-details.mov)
+Planet-go should display all planets listed in the [StarWars API](https://swapi.dev/)
 
+![Dashboard](./public/dashboard.png)
 
+To search for a specific planet, go to the search bar and type the name of the planet you want.
 
+To see the planet's details, just hover your mouse over the card and it will flip over and show more details about it.
