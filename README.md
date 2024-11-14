@@ -1,51 +1,36 @@
-# Flecto: Frontend Exercise
+# Planetary Go
 
-Welcome!
+Planetary Go is a React application that allows users to search for planets in the Star Wars universe. The application uses React Query for data fetching and caching, and it includes features such as pagination and search by planetName
 
-Following our previous conversation, we’d like to invite you to our technical challenge where you can showcase all your talents. We know this we’ll be a walk-in-the-park and respect your schedule so rest assured that it won’t take too much of your spare time.
+## Table of Contents
 
-## **Overview**
+- [Installation](#installation)
+- [Usage](#usage)
+- [Testing](#testing)
 
-The main goal of this exercise is for you to do a single page showing a paginated list (either as a table, list, or cards) of weird-named planets from Star Wars. You’ll consume a simple API from [SWAPI](https://swapi.dev/documentation#intro) which you’ll then treat and show.
+## Installation
 
-Feel free to use any components’ library and any Jedi mind tricks you like.
+To get started with the project, clone the repository and install the dependencies:s
 
-Let's go!
+```bash
+git clone https://github.com/your-username/planetary-go.git
+cd planetary-go
+npm install
+```
 
-## **Task requirements**
-The main requirements are:
-- The user should be able to search for planets;
-- The user should be able to paginate the list of planets;
-- The user should be able to see details about the selected planet.
+## Usage
 
-API Documentation: https://swapi.dev/documentation#intro
+```bash
+npm run dev
+```
 
-## **Delivery instructions**
-Fork this repository to your own github profile and use it to develop your solution. After done, just send us the link for your forked repository.
+## Testing
 
-## **What we expect**
-⚛️ React and TypeScript
+```bash
+npm run test
+```
 
-🐞 Unit / integration tests
+[![Check planet details](./public/check-details.mov)
 
-💅 A nice design using CSS
 
-📄 Clear README.md
 
-## What w**e’d love to see**
-
-🔥 NextJS
-
-🔥 TanStack Query / SWR
-
-## What would be nice
-If you have the time, you might want to add these to your project:
-
-🎨 Responsive layout
-
-📱 Mobile suppport
-
-## **Additional information**
-Feel free to reach out if you have any question and don’t hesitate regardless of how simple or silly your questions might look like. We are here to provide you all the conditions for you to shine ✨
-
-There’s no deadline only good sense.

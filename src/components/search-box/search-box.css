@@ -1,0 +1,18 @@
+.searchbox {
+    display: flex;
+    background: #000000;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 0 auto;
+    height: 50px;
+    width: 70%;
+    color: rgb(255, 232, 31);
+    letter-spacing: .2px;
+    font-size: 16px;
+}
+
+.searchbox::placeholder {
+    color: rgb(255, 232, 31);
+    opacity: 1;
+    margin-left: 100px;
+}
