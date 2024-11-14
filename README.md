@@ -30,7 +30,7 @@ npm run dev
 npm run test
 ```
 
-[![Check planet details](./public/check-details.mov)
+[Watch the video to see how to see the planet details](./public/check-details.mov)
 
 
 
